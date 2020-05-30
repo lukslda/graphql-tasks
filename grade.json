@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "grade": "first grade",
+        "courseId": 3,
+        "studentId": 5
+    },
+    {
+        "id":2,
+        "grade": "third grade",
+        "courseId": 4,
+        "studentId": 4
+    },
+    {
+        "id":3,
+        "grade": "first grade",
+        "courseId": 5,
+        "studentId": 3
+    },
+    {
+        "id":4,
+        "grade": "second grade",
+        "courseId": 1,
+        "studentId": 2
+    },
+    {
+        "id":5,
+        "grade": "second grade",
+        "courseId": 2,
+        "studentId": 1
+    }
+]
